@@ -18,3 +18,5 @@ Caso algum link não esteja disponível favor contactar-me pelo email jfavmir@gm
  * Bitcoin: https://drive.google.com/file/d/1jxGpeQMHTL0zj0ag-nhytMpdRGgPZxpl/view?usp=sharing
  * Vendas veículos elétricos: https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024?authuser=0
 ## Referências
+
+## Atualizacao 2.0
