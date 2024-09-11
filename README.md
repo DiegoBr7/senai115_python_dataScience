@@ -1,5 +1,9 @@
 # Python para Data Science
+<<<<<<< HEAD
 Autores: Diego Br
+=======
+Autores: Julio Miranda 2x campeão mundial
+>>>>>>> 723dd54493f762506ccb7eece3339ec9efec0342
 
 Versão: 1
 
@@ -18,7 +22,10 @@ Caso algum link não esteja disponível favor contactar-me pelo email jfavmir@gm
  * Bitcoin: https://drive.google.com/file/d/1jxGpeQMHTL0zj0ag-nhytMpdRGgPZxpl/view?usp=sharing
  * Vendas veículos elétricos: https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024?authuser=0
 ## Referências
+<<<<<<< HEAD
 
 ## Atualizacao 2.0
 
 * Atualizacao do codigo 
+=======
+>>>>>>> 723dd54493f762506ccb7eece3339ec9efec0342
